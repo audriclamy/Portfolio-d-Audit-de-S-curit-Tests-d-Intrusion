@@ -1,6 +1,6 @@
 # 🛡️ Portfolio d'Audit de Sécurité & Tests d'Intrusion
 
-> *"La meilleure défense naît d'une compréhension profonde de l'attaque, et surtout, de l'infrastructure que l'on protège."*
+> *"La meilleure défense naît d'une compréhension profonde de l'attaque."*
 
 ---
 
