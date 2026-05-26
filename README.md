@@ -8,9 +8,9 @@
 - [👤 À propos de moi](#-à-propos-de-moi)
 - [🛠️ Matrice de Compétences Techniques](#️-matrice-de-compétences-techniques)
 - [📑 Rapports d'Audit Professionnels](#-rapports-daudit-professionnels)
-- [1. Audit d'Infrastructure via Pipeline DevOps](#3-Audit-dinfrastructure-devops)
-- [2. Audit d'Infrastructure Active Directory ](#1-audit-dinfrastructure-active-directory-)
-- [3. Audit de Sécurité d'Intranet ](#2-audit-de-sécurité-dintranet)
+- [1. Audit d'Infrastructure via Pipeline DevOps](https://github.com/audriclamy/Portfolio-d-Audit-de-S-curit-Tests-d-Intrusion/releases/download/v1.0/Rapport_d_Audit_d_infrastructure_Devops.pdf)
+- [2. Audit d'Infrastructure Active Directory ](https://github.com/audriclamy/Portfolio-d-Audit-de-S-curit-Tests-d-Intrusion/releases/download/v1.0/Rapport_d_Audit_de_Securite_Active_Directory.pdf)
+- [3. Audit de Sécurité d'Intranet ](https://github.com/audriclamy/Portfolio-d-Audit-de-S-curit-Tests-d-Intrusion/releases/download/v1.0/Rapport_d_Audit_de_Securite_d_intranet.pdf)
 - [⚠️ Avertissement Légal & Éthique](#️-avertissement-légal--éthique)
 
 ---
@@ -45,17 +45,17 @@ Voici mes trois rapports détaillant des compromissions complètes d'environneme
 ### 1. Audit d'Infrastructure DevOps
 Analyse des risques et de la surface d'attaque d'une infrastructure d'intégration et de déploiement continus (CI/CD). Le rapport illustre comment des faiblesses de cloisonnement dans les conteneurs et les outils d'automatisation permettent un pivotement direct vers l'hôte physique.
 * **Vecteurs clés :** Abus de pipelines Jenkins, Pivot et évasion de conteneur Docker, Exploitation de droits sudo et RSH.
-* 📄 [Consulter le Rapport d'Audit DevOps (PDF)](./Rapport_d_Audit_d_infrastructure_pipeline_Devops.pdf)
+* 📄 [Consulter le Rapport d'Audit DevOps (PDF)](https://github.com/audriclamy/Portfolio-d-Audit-de-S-curit-Tests-d-Intrusion/releases/download/v1.0/Rapport_d_Audit_d_infrastructure_Devops.pdf)
 
 ### 3. Audit d'Infrastructure Active Directory 
 Évaluation offensive ciblant le cœur d'une infrastructure Windows. Ce rapport met en lumière l'exploitation de défauts de configuration critiques liés aux services de certificats (AD CS) et l'exécution d'attaques de type DCSync menant à la compromission totale du domaine.
 * **Vecteurs clés :**  Relais NTLM/Relais kerberos (ESC8), Usurpation d'identité AD, DCSync.
-* 📄 [Consulter le Rapport d'Audit AD (PDF)](./Rapport_d_Audit_de_Securite_Active_Directory.pdf)
+* 📄 [Consulter le Rapport d'Audit AD (PDF)](https://github.com/audriclamy/Portfolio-d-Audit-de-S-curit-Tests-d-Intrusion/releases/download/v1.0/Rapport_d_Audit_de_Securite_Active_Directory.pdf)
 
 ### 3. Audit de Sécurité d'Intranet 
 Évaluation de la surface applicative d'un portail intranet et du système Linux sous-jacent. L'audit démontre l'enchaînement de vulnérabilités web (OWASP Top 10) menant à une exécution de commande, suivie d'une évasion d'environnement isolé (chroot) par manipulation de privilèges.
-* **Vecteurs clés :** Blind SQL Injection (Error-based), OS Command Injection, Évasion de chroot via PostgreSQL.
-* 📄 [Consulter le Rapport d'Audit Intranet (PDF)](./Rapport_d_Audit_de_Securite_d_intranet.pdf)
+* **Vecteurs clés :** Blind SQL Injection (Error-based),Command Injection, Évasion de chroot via PostgreSQL.
+* 📄 [Consulter le Rapport d'Audit Intranet (PDF)](https://github.com/audriclamy/Portfolio-d-Audit-de-S-curit-Tests-d-Intrusion/releases/download/v1.0/Rapport_d_Audit_de_Securite_d_intranet.pdf)
 
 
 ---
