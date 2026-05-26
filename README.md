@@ -50,7 +50,7 @@ Analyse des risques et de la surface d'attaque d'une infrastructure d'intégrati
 ### 3. Audit d'Infrastructure Active Directory 
 Évaluation offensive ciblant le cœur d'une infrastructure Windows. Ce rapport met en lumière l'exploitation de défauts de configuration critiques liés aux services de certificats (AD CS) et l'exécution d'attaques de type DCSync menant à la compromission totale du domaine.
 * **Vecteurs clés :**  Relais NTLM/Relais kerberos (ESC8), Usurpation d'identité AD, DCSync.
-* 📄 [Consulter le Rapport d'Audit AD (PDF)](./Rapport_d_Audit_de_Securite_Active_Directory.pdf)
+* 📄 [Consulter le Rapport d'Audit AD (PDF)](https://github.com/AudricL/Portfolio-d-Audit-de-S-curit-Tests-d-Intrusion/raw/main/Rapport_d_Audit_de_Securite_Active_Directory.pdf)
 
 ### 3. Audit de Sécurité d'Intranet 
 Évaluation de la surface applicative d'un portail intranet et du système Linux sous-jacent. L'audit démontre l'enchaînement de vulnérabilités web (OWASP Top 10) menant à une exécution de commande, suivie d'une évasion d'environnement isolé (chroot) par manipulation de privilèges.
