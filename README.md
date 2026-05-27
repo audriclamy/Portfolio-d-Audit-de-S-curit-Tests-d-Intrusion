@@ -17,7 +17,7 @@
 
 ## 👤 À propos de moi
 
-Mon parcours professionnel s'est construit sur une conviction profonde : **pour protéger efficacement une infrastructure, il faut d'abord savoir comment elle est construite, du matériel jusqu'à l'applicatif.** Actif dans l'informatique depuis 2013, j'ai forgé mon expérience sur le terrain. De la maintenance réseau au déploiement de parcs, en passant par la téléphonie IP et le développement j'ai acquis une vision globale et pragmatique des systèmes d'information. 
+Mon parcours professionnel s'est construit sur une conviction profonde : **pour protéger efficacement une infrastructure, il faut d'abord savoir comment elle est construite, du matériel jusqu'à l'applicatif.** Actif dans l'informatique depuis 2013, j'ai forgé mon expérience sur le terrain. De la maintenance réseau en passant par la téléphonie IP et le développement j'ai acquis une vision globale et pragmatique des systèmes d'information. 
 
 Cette polyvalence m'a naturellement conduit vers la cybersécurité lors de mon cursus d'Ingénieur. J'ai eu l'opportunité de concrétiser cette spécialisation au sein de l'équipe Sécurité d'un grand groupe bancaire. Durant cette mission, j'ai piloté l'industrialisation de la sécurité opérationnelle : analyse de vulnérabilités, collecte et audit des configurations, et automatisation des tâches. Mon objectif a été d'adopter une véritable approche **DevSecOps**, en déployant un tableau de bord automatisés via des conteneurs Docker et des pipelines CI/CD.
 
