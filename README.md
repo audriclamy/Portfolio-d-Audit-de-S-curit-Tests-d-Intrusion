@@ -31,7 +31,7 @@ Conscient que la défense nécessite une compréhension fine des menaces réelle
 
 | Domaine                   | Technologies & Concepts Exploités                                                      |
 | :------------------------ | :------------------------------------------------------------------------------------- |
-| **Active Directory **     | Abus Kerberos, DCSync, AD CS (ESC8), Mouvements latéraux,  Relais NTLM/Relais kerberos |
+| **Active Directory**     | Abus Kerberos, DCSync, AD CS (ESC8), Mouvements latéraux,  Relais NTLM/Relais kerberos |
 | **DevOps**                | Évasion Docker, Compromission de pipelines CI/CD, Jenkins, Git                         |
 | **Web & Système (Linux)** | OWASP (XSS, SQLi, Command Injection), Élévation de privilèges                          |
 | **Sécurité Défensive**    | Durcissement système, Gestion des vulnérabilités, Analyse de logs                      |
